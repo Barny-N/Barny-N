@@ -1,4 +1,60 @@
-## Hi there 👋
+<p align="center">
+  <img src="banner.png.png" alt="Ntando Barnabas Banner" width="100%">
+</p>
+
+# Ntando Barnabas
+
+Executive Assistant | Virtual Assistant | Sales & Marketing Support | Customer Support  
+
+![Remote](https://img.shields.io/badge/Remote-Professional-lightgrey)
+![Operations](https://img.shields.io/badge/Operations-Structured-blue)
+![Client Support](https://img.shields.io/badge/Client%20Support-Responsive-green)
+
+------
+
+## 🗂 Executive & Virtual Assistant
+
+Strategic operational support for founders and executives in fast-paced environments.
+
+• Calendar and inbox management  
+• CRM organisation and tracking  
+• Meeting coordination and documentation  
+• Travel planning  
+• SOP and workflow development  
+• Administrative and operational support  
+• Confidential executive assistance  
+
+
+## 📈 Sales & Marketing Support
+
+Supporting revenue growth through organisation, coordination, and client engagement.
+
+• Lead generation and prospect research  
+• Sales pipeline tracking  
+• Campaign coordination  
+• Social media support  
+• Brand activations and promotional work  
+• Performance reporting  
+
+
+## 💬 Customer Support
+
+Delivering professional, efficient, and solution-focused client communication.
+
+• Email and chat support  
+• Client onboarding  
+• Issue resolution and follow-ups  
+• Multi-channel communication  
+
+------
+
+##  Let’s Connect
+
+I am open to remote Executive Assistant, Virtual Assistant, Sales Support, Marketing Support, and Customer Support opportunities.
+
+📎 LinkedIn: [Ntando Barnabas](https://www.linkedin.com/in/ntando-barnabas)  
+📩 Email: barnabasntando@gmail.com
+
 
 <!--
 **Barny-N/Barny-N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
