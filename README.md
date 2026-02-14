@@ -2,14 +2,9 @@
   <img src="banner.png.png" alt="Ntando Barnabas Banner" width="100%">
 </p>
 
-# Ntando Barnabas
+# Ntando "Barny" Barnabas
 
 Executive Assistant | Virtual Assistant | Sales & Marketing Support | Customer Support  
-
-![Remote](https://img.shields.io/badge/Remote-Professional-lightgrey)
-![Operations](https://img.shields.io/badge/Operations-Structured-blue)
-![Client Support](https://img.shields.io/badge/Client%20Support-Responsive-green)
-
 ------
 
 ## 🗂 Executive & Virtual Assistant
