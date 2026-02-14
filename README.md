@@ -2,7 +2,7 @@
   <img src="banner.png.png" alt="Ntando Barnabas Banner" width="100%">
 </p>
 
-# Ntando "Barny" Barnabas
+# Ntando 'Barny' Barnabas
 
 Executive Assistant | Virtual Assistant | Sales & Marketing Support | Customer Support  
 ------
