@@ -3,8 +3,6 @@
 </p>
 
 # Ntando 'Barny' Barnabas
-
-Executive Assistant | Virtual Assistant | Sales & Marketing Support | Customer Support  
 ------
 
 ## 🗂 Executive & Virtual Assistant
@@ -40,6 +38,28 @@ Delivering professional, efficient, and solution-focused client communication.
 • Client onboarding  
 • Issue resolution and follow-ups  
 • Multi-channel communication  
+
+## 💼 Tools & Technologies I Use
+
+### 🧠 Productivity & Project Management
+- **Notion** - workspace, docs, databases  
+- **ClickUp** - project & task management  
+- **Asana** - team task tracking  
+- **Trello** - visual boards and workflows  
+- **Google Workspace** - Gmail, Sheets, Calendar, Drive  
+- **Microsoft Office** - Excel, Outlook, Teams  
+
+### 📊 Sales & CRM
+- **HubSpot** - sales, marketing & service hub all‑in‑one  
+- **Zoho** - customizable CRM with automation  
+- **Salesforce** - CRM and sales automation  
+
+### 📣 Marketing & Social Media
+- **Mailchimp** - email marketing & automation  
+- **Canva** - design for visuals & social content  
+- **Buffer** - social media publishing  
+- **Hootsuite** - social media publishing  
+- **Meta Business Suite** - Instagram and Facebook scheduling and insights
 
 ------
 
